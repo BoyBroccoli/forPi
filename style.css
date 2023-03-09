@@ -1,0 +1,9 @@
+#displayTime, #displayDate {
+    font-size: 40px;
+    color: #fff;
+    
+}
+
+body{
+    background-image: linear-gradient(to right, #72EDF2 10%, #5151E5 80%);
+}
